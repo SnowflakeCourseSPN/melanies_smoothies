@@ -1,1 +1,11 @@
 streamlit
+snowflake
+# requirements.txt
+
+# requirements.txt
+#snowflake-snowpark-python
+#streamlit
+
+#python==3.8.0
+#snowflake-snowpark-python==1.1.0
+#streamlit==1.25.0
