@@ -1,6 +1,8 @@
 snowflake-snowpark-python
 streamlit
 snowflake
+requests
+
 # requirements.txt
 
 # requirements.txt
